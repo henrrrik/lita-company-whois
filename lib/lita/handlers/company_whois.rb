@@ -1,4 +1,3 @@
-require "lita"
 require 'clearbit'
 
 Clearbit.key = '8c6e686d9dd080d984df2d14c9589981'
